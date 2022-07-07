@@ -1,5 +1,10 @@
 
-My code review comments tend to come in a few categories, I use emojis to indicate these categories:
+My code review comments tend to come in a few categories. 
+These are the emojis to indicate these categories:
+
+:green_heart: heart: I love this
+
+:clap: bravo: thanks for this ingenious, extra mile addition
 
 :warning: notice: be aware of this bit of code
 
@@ -13,4 +18,8 @@ My code review comments tend to come in a few categories, I use emojis to indica
 
 :bug: bug: something needs fixing here
 
-:bomb: bomb: something about the architecture is wrong back to the drawing board
+:bomb: bomb: something about the architecture is wrong - we need to go back to the drawing board
+
+
+---
+_Please submit a PR with your own pr-emojis_ :green_heart:
